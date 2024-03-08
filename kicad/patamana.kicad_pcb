@@ -136,7 +136,7 @@
   (net 58 "MISO")
   (net 59 "SCK")
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 05e6b4e5-99d8-46b3-9a26-8208087e9f12)
     (at 20.574 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -165,7 +165,7 @@
       (net 37 "SW29") (pintype "passive") (thermal_bridge_angle 45) (tstamp f8e7cb18-50bc-4f7c-a418-4cbef1bcaa31))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 0a950bbe-134d-414a-9936-c5c107eb462b)
     (at 9.906 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -194,7 +194,7 @@
       (net 13 "SW5") (pintype "passive") (thermal_bridge_angle 45) (tstamp d8421f28-3924-4c1f-af0a-b408a597598f))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 0dfcfcf6-679b-48fc-83b7-383949c7b0bc)
     (at 9.906 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -223,7 +223,7 @@
       (net 10 "SW2") (pintype "passive") (thermal_bridge_angle 45) (tstamp a5a9dd78-df77-4957-a674-6be66d35f761))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 11619ceb-58cd-4fd3-a701-501d0ab114da)
     (at 19.304 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -252,7 +252,7 @@
       (net 27 "SW19") (pintype "passive") (thermal_bridge_angle 45) (tstamp 50b0555e-8992-47b1-bc9c-8301b5b05875))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 11cd64ca-da8e-4ac7-a890-52892cd680dc)
     (at 20.574 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -281,7 +281,7 @@
       (net 26 "SW18") (pintype "passive") (thermal_bridge_angle 45) (tstamp 36ccd92d-2cea-4eb2-86c4-3d457ae4cee3))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 16fc1727-de85-402b-b766-32ddd7b86291)
     (at 11.176 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -310,7 +310,7 @@
       (net 12 "SW4") (pintype "passive") (thermal_bridge_angle 45) (tstamp 429e9d1d-328a-4c05-a879-18f459c1c2c1))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 1ca97788-a9f7-4151-b667-111cf0d90a4f)
     (at 23.114 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -339,7 +339,7 @@
       (net 32 "SW24") (pintype "passive") (thermal_bridge_angle 45) (tstamp c60e0edf-607e-44b8-af41-087d06126b4c))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 21e4d90d-4c1b-4404-8a1f-00daf187ac36)
     (at 7.366 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -368,7 +368,7 @@
       (net 15 "SW7") (pintype "passive") (thermal_bridge_angle 45) (tstamp cb54a90c-3a52-46c2-9079-33c40b262813))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 249d5510-f07e-4b04-9f71-1e4046f8367a)
     (at 3.683 13.208)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -397,7 +397,7 @@
       (net 41 "SDA") (pintype "passive") (thermal_bridge_angle 45) (tstamp df7ff299-359a-48c8-b168-83da59953935))
   )
 
-  (footprint "carbon_hero:XIAO_ESP32S3" (layer "F.Cu")
+  (footprint "patamana:XIAO_ESP32S3" (layer "F.Cu")
     (tstamp 270ffbd2-2b09-414b-a401-88008c1a23c8)
     (at 15.24 10.668)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -458,7 +458,7 @@
       (net 1 "5V") (pinfunction "5V") (pintype "bidirectional") (tstamp 4cd190e3-7e0f-4c51-b66c-aba4365940b5))
   )
 
-  (footprint "carbon_hero:OLED_128x64_I2C" (layer "F.Cu")
+  (footprint "patamana:OLED_128x64_I2C" (layer "F.Cu")
     (tstamp 27ac0fbd-9822-44ef-b456-780ab307a490)
     (at 15.24 31.496)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -509,7 +509,7 @@
       (net 41 "SDA") (pinfunction "SDA") (pintype "input") (tstamp 7a7fec97-c7d6-4f1c-8633-c272672ac02f))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 316af502-3511-4b15-be39-c983fd350131)
     (at 23.114 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -538,7 +538,7 @@
       (net 24 "SW16") (pintype "passive") (thermal_bridge_angle 45) (tstamp a17af1cf-fabb-4897-a46c-e25c5bbd58aa))
   )
 
-  (footprint "carbon_hero:MJ-4PP-9" (layer "F.Cu")
+  (footprint "patamana:MJ-4PP-9" (layer "F.Cu")
     (tstamp 38ec9eb1-027e-4943-9f27-33a6ef55c312)
     (at 30.48 25.4 180)
     (property "LCSC" "C136687")
@@ -583,7 +583,7 @@
       (net 43 "RX") (pintype "passive") (tstamp e4e095a7-04f3-4ee8-acda-4ccc4537264a))
   )
 
-  (footprint "carbon_hero:SOT109-1_SO16" (layer "F.Cu")
+  (footprint "patamana:SOT109-1_SO16" (layer "F.Cu")
     (tstamp 3b507e3f-1785-474f-a129-0efaa0003e16)
     (at 21.209 51.054)
     (property "LCSC" "C5613")
@@ -649,7 +649,7 @@
       (net 3 "Vcc") (pinfunction "Vcc") (pintype "input") (thermal_bridge_angle 45) (tstamp a51805c2-a65c-426f-b1f5-049442e6fc4c))
   )
 
-  (footprint "carbon_hero:Tactile_Switch_TVDP01" (layer "F.Cu")
+  (footprint "patamana:Tactile_Switch_TVDP01" (layer "F.Cu")
     (tstamp 3c613d74-40d7-4aaa-9a18-c66752f1e5f2)
     (at 5.406 64.643 90)
     (property "LCSC" "C2889016")
@@ -689,7 +689,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 666ad7bb-4daa-4eae-b6e8-7e69aa8e880d))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 3e2b2e35-aa06-4176-9082-82a19f29d0c3)
     (at 12.446 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -718,7 +718,7 @@
       (net 2 "GND") (pintype "passive") (thermal_bridge_angle 45) (tstamp 5e62a50e-7661-4134-9b87-924bf426c7b7))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 4098b551-e313-40b4-b139-03a668aa4755)
     (at 8.636 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -862,7 +862,7 @@
     )
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 4c171897-409e-42aa-b35e-315fea648e21)
     (at 20.574 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -891,7 +891,7 @@
       (net 29 "SW21") (pintype "passive") (thermal_bridge_angle 45) (tstamp 2c5135be-680d-4d91-91b4-c81bf3d41bbf))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 4f73781b-3370-4c91-abef-2da3a7f70f3f)
     (at 21.844 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -920,7 +920,7 @@
       (net 33 "SW25") (pintype "passive") (thermal_bridge_angle 45) (tstamp b7d1c81a-d636-45e2-89f6-f4487c55cd66))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 543bedb8-a2c1-4516-8843-57a6456f219e)
     (at 20.574 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -949,7 +949,7 @@
       (net 34 "SW26") (pintype "passive") (thermal_bridge_angle 45) (tstamp fcc144cd-1f00-4e63-be4d-23b6e08f3b5a))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 5693a5b7-d994-434f-be26-302657d0e190)
     (at 24.384 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -978,7 +978,7 @@
       (net 7 "SI") (pintype "passive") (thermal_bridge_angle 45) (tstamp b697a11f-a4bd-4695-98c2-0033eeaedc92))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 5c28a1dd-dbcc-46ca-b24f-ed89fbdaa093)
     (at 11.176 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1007,7 +1007,7 @@
       (net 20 "SW12") (pintype "passive") (thermal_bridge_angle 45) (tstamp 37d17097-1322-435c-994c-ee9845665a27))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 5d9544c1-afa7-4e72-9c23-90231012c669)
     (at 3.683 15.748)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1036,7 +1036,7 @@
       (net 40 "SCL") (pintype "passive") (thermal_bridge_angle 45) (tstamp c15f1af6-43e6-4dc7-8b2f-42c4694ea40e))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 611519db-b7ef-49d1-bd9d-42dee5c74148)
     (at 3.683 7.747 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1065,7 +1065,7 @@
       (net 2 "GND") (pintype "passive") (thermal_bridge_angle 45) (tstamp 6362f6d8-7450-4f44-8c76-90e0f02ce026))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 64e6a011-cb14-475a-b6b5-0fee74e898de)
     (at 19.304 43.942 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1094,7 +1094,7 @@
       (net 35 "SW27") (pintype "passive") (thermal_bridge_angle 45) (tstamp 4768eef5-6e10-4c8e-bc67-4d8a20283b5f))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 65ab7ca1-cf7b-4d21-a378-ec3cd7e16935)
     (at 7.366 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1123,7 +1123,7 @@
       (net 8 "SW0") (pintype "passive") (thermal_bridge_angle 45) (tstamp 203ba11f-1f07-455b-96ae-0e808c8f5e39))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 6e21f48e-4b62-4af7-9fe7-e572d72cc8b8)
     (at 26.416 7.62 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1152,7 +1152,7 @@
       (net 2 "GND") (pintype "passive") (thermal_bridge_angle 45) (tstamp de7cbc3b-a5e5-4863-8b23-99dc9e0f11ef))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 6e3a5cca-73e0-43ce-9dc6-fb7545b2d433)
     (at 23.114 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1181,7 +1181,7 @@
       (net 39 "SW31") (pintype "passive") (thermal_bridge_angle 45) (tstamp 36afb007-b82e-4055-9a86-6baa7f501a82))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 6e8d7766-7927-482c-a56d-238ee0ba912b)
     (at 4.191 19.304 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1210,7 +1210,7 @@
       (net 42 "TX") (pintype "passive") (thermal_bridge_angle 45) (tstamp db0c4a52-9b3e-4694-a90b-b35207d8163d))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 7791c4f3-22d4-4540-bdfb-24de07e0028c)
     (at 8.636 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1239,7 +1239,7 @@
       (net 9 "SW1") (pintype "passive") (thermal_bridge_angle 45) (tstamp 05f9ed51-3124-406e-9d1f-848b9c515351))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 78f43774-be0d-49ab-b2f7-ad3fcd4a5479)
     (at 18.034 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1268,7 +1268,7 @@
       (net 2 "GND") (pintype "passive") (thermal_bridge_angle 45) (tstamp 77ff0d49-b96d-42b7-bb47-da04386fa731))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 7a36e86a-98b3-4c67-acd3-afee180c4313)
     (at 3.683 5.461 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1297,7 +1297,7 @@
       (net 6 "Net-(U1-D0{slash}A0)") (pintype "passive") (thermal_bridge_angle 45) (tstamp bfb7c958-c271-4a0b-a0a2-5a440941df1c))
   )
 
-  (footprint "carbon_hero:SOT109-1_SO16" (layer "F.Cu")
+  (footprint "patamana:SOT109-1_SO16" (layer "F.Cu")
     (tstamp 818cb606-8e93-4d4a-b7fe-47aa079b8b55)
     (at 9.271 51.054 180)
     (property "LCSC" "C5613")
@@ -1363,7 +1363,7 @@
       (net 3 "Vcc") (pinfunction "Vcc") (pintype "input") (thermal_bridge_angle 45) (tstamp 279634f7-a680-47e8-89e0-6b9835bfc6d7))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 82fedac1-3721-4957-97e3-3c7d273b3ffb)
     (at 12.446 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1392,7 +1392,7 @@
       (net 2 "GND") (pintype "passive") (thermal_bridge_angle 45) (tstamp e6337843-b45d-41b3-b178-801f95f63075))
   )
 
-  (footprint "carbon_hero:patamana_0_4_out" (layer "F.Cu")
+  (footprint "patamana:patamana_0_4_out" (layer "F.Cu")
     (tstamp 838b6b97-9e0f-4409-b380-dc263152f68f)
     (at 0 0)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1545,7 +1545,7 @@
       (net 1 "5V") (pintype "passive") (tstamp c742491e-3f5f-4a41-94af-e9376a97e775))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 8eb3626e-2fab-40e5-92a7-4a50992b8946)
     (at 7.366 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1574,7 +1574,7 @@
       (net 16 "SW8") (pintype "passive") (thermal_bridge_angle 45) (tstamp 6c4b4fd0-5436-498b-b885-676d98ac7079))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 96f65578-4889-4151-81be-d2a57135c31c)
     (at 8.636 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1603,7 +1603,7 @@
       (net 22 "SW14") (pintype "passive") (thermal_bridge_angle 45) (tstamp 230e3ced-8ef2-4380-99c6-a1074c5731de))
   )
 
-  (footprint "carbon_hero:SS-12D00-G5" (layer "F.Cu")
+  (footprint "patamana:SS-12D00-G5" (layer "F.Cu")
     (tstamp 986cd038-8194-44c3-85ef-3908208792a2)
     (at 21.844 25.4)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1634,7 +1634,7 @@
       (net 54 "unconnected-(SW3A-C-Pad3)") (pinfunction "C") (pintype "passive") (tstamp af209dc6-0164-49e3-b5ed-95316d7a2332))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp 99ac2a72-a142-44b9-b316-45a6b40a96e8)
     (at 3.683 17.526 180)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1663,7 +1663,7 @@
       (net 3 "Vcc") (pintype "passive") (thermal_bridge_angle 45) (tstamp d2cb32c2-7396-494c-b48f-5b6a60d4d6e9))
   )
 
-  (footprint "carbon_hero:MJ-4PP-9" (layer "F.Cu")
+  (footprint "patamana:MJ-4PP-9" (layer "F.Cu")
     (tstamp a4435d07-8523-4cd5-9725-28fd2f0178cb)
     (at 0 25.4)
     (property "LCSC" "C136687")
@@ -1708,7 +1708,7 @@
       (net 56 "TX_after_protection_resistance") (pintype "passive") (tstamp bd6a5c60-2ab9-40f1-a5ad-9511006a8bac))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp a64b49fd-1c4a-498c-8cad-049c1d1427b5)
     (at 7.366 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1737,7 +1737,7 @@
       (net 23 "SW15") (pintype "passive") (thermal_bridge_angle 45) (tstamp 4052cc3a-8cea-4bc7-a8ac-72f80551e9e6))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp ad5a5907-2ee6-4508-a5bb-42b9ec4c5e8f)
     (at 21.844 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1766,7 +1766,7 @@
       (net 38 "SW30") (pintype "passive") (thermal_bridge_angle 45) (tstamp ac3347db-8fc8-4595-a73f-3380c3fde77a))
   )
 
-  (footprint "carbon_hero:SOT109-1_SO16" (layer "F.Cu")
+  (footprint "patamana:SOT109-1_SO16" (layer "F.Cu")
     (tstamp b8dd448f-f15f-43ec-8b76-2959e148443d)
     (at 9.271 39.116 180)
     (property "LCSC" "C5613")
@@ -1832,7 +1832,7 @@
       (net 3 "Vcc") (pinfunction "Vcc") (pintype "input") (thermal_bridge_angle 45) (tstamp ce1181ec-772e-487b-a17c-4666f5146e47))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp c46366f2-2e4f-4d60-ab98-f9d9fe0ce6ed)
     (at 26.416 5.113 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1861,7 +1861,7 @@
       (net 2 "GND") (pintype "passive") (thermal_bridge_angle 45) (tstamp 50495fb9-1d6f-486e-8244-e00e0ef28577))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp d1fe89be-1726-4730-a08c-ed089cdbf22b)
     (at 19.304 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1890,7 +1890,7 @@
       (net 36 "SW28") (pintype "passive") (thermal_bridge_angle 45) (tstamp 3248d123-3671-4998-bcfd-b4f1e9bfd726))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp d5168f1f-6d6d-4dfd-a1e6-7b6375c3b4af)
     (at 21.844 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -1919,7 +1919,7 @@
       (net 25 "SW17") (pintype "passive") (thermal_bridge_angle 45) (tstamp 45260998-e769-4e79-9d89-c718b74beb1a))
   )
 
-  (footprint "carbon_hero:SOT109-1_SO16" (layer "F.Cu")
+  (footprint "patamana:SOT109-1_SO16" (layer "F.Cu")
     (tstamp d7912385-86b8-4d95-af85-4250cd0b3dfa)
     (at 21.209 39.116)
     (property "LCSC" "C5613")
@@ -1985,7 +1985,7 @@
       (net 3 "Vcc") (pinfunction "Vcc") (pintype "input") (thermal_bridge_angle 45) (tstamp 075cdb24-6774-4e09-a461-013fe6534d4d))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp dab1ba17-c247-404b-a469-4e62261d39fb)
     (at 9.906 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2014,7 +2014,7 @@
       (net 18 "SW10") (pintype "passive") (thermal_bridge_angle 45) (tstamp 9c220872-5740-49ca-a556-5f4cd65f7f42))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp de8fc166-3fbe-44c2-9038-3c2e98e3f8a4)
     (at 23.114 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2043,7 +2043,7 @@
       (net 31 "SW23") (pintype "passive") (thermal_bridge_angle 45) (tstamp a0fce8b6-f4c2-4363-9d3f-ccd3f852407b))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp e21af5d7-eacc-461e-a005-82e0c89c96c9)
     (at 11.176 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2072,7 +2072,7 @@
       (net 19 "SW11") (pintype "passive") (thermal_bridge_angle 45) (tstamp df974934-701d-48ff-9883-2bcc413b5769))
   )
 
-  (footprint "carbon_hero:Tactile_Switch_TVDP01" (layer "F.Cu")
+  (footprint "patamana:Tactile_Switch_TVDP01" (layer "F.Cu")
     (tstamp e80c2c4a-c3e1-4f40-9948-3c00101a7cd9)
     (at 25.074 58.143 -90)
     (property "LCSC" "C2889016")
@@ -2112,7 +2112,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 8db8a84b-7c8e-4edf-9884-542743ebde68))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp efabb4ed-0625-42f8-945f-14812f801c6c)
     (at 18.034 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2141,7 +2141,7 @@
       (net 2 "GND") (pintype "passive") (thermal_bridge_angle 45) (tstamp 027e4bde-e1bf-4678-84e5-a98f3ca606c6))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp f09eab8f-c043-4cf7-8f9f-226ed53e17f7)
     (at 21.844 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2170,7 +2170,7 @@
       (net 30 "SW22") (pintype "passive") (thermal_bridge_angle 45) (tstamp 87235ca7-cc15-464a-9744-629fa468cc42))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp f1e34379-88ee-4f81-9e1b-79d7f5ad17bc)
     (at 19.304 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2199,7 +2199,7 @@
       (net 28 "SW20") (pintype "passive") (thermal_bridge_angle 45) (tstamp 4c62d29e-6795-4058-aaed-98626ee09216))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp f4aa0507-742d-4a5b-88ec-db004eaca541)
     (at 8.636 46.228 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2228,7 +2228,7 @@
       (net 17 "SW9") (pintype "passive") (thermal_bridge_angle 45) (tstamp b3972922-b91f-4927-8786-236bb2465707))
   )
 
-  (footprint "carbon_hero:SS-12D00-G5" (layer "F.Cu")
+  (footprint "patamana:SS-12D00-G5" (layer "F.Cu")
     (tstamp fbc47d5d-640b-4526-8ca3-4c04f0dce180)
     (at 8.636 25.4 180)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2259,7 +2259,7 @@
       (net 55 "unconnected-(SW4A-C-Pad3)") (pinfunction "C") (pintype "passive") (tstamp 0c12b237-3869-445a-8da7-18997aee792e))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp fe7d2335-bd94-4961-b629-62ded44df024)
     (at 11.176 34.29 -90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
@@ -2288,7 +2288,7 @@
       (net 11 "SW3") (pintype "passive") (thermal_bridge_angle 45) (tstamp cd8fb294-83ee-47f8-bf73-895884730981))
   )
 
-  (footprint "carbon_hero:0402" (layer "F.Cu")
+  (footprint "patamana:0402" (layer "F.Cu")
     (tstamp ff381d38-1c7a-4310-b49f-8a98ac9257dd)
     (at 9.906 55.88 90)
     (property "Sheetfile" "patamana_0_4.kicad_sch")
