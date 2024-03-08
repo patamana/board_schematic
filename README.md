@@ -17,15 +17,11 @@ TRRSジャックによる左右通信<br>
 XIAOのD1,D2,D3ピンが74HC165のLD,CK,QHに配線されています。<br>
 LDをLowにすることでシフトレジスタにロードされ、<br>
 QHからSW0のHIGE/LOWが出力されます。<br>
-CKの立ち上がりたびに出力信号がSW1,SW2...とシフトされていきます。
+CKが立ち上がるたびに出力信号がSW1,SW2...とシフトされていきます。
 
 
-詳しい利用方法は<br>
-[patamana.com](https://patamana.com)<br>
-を参照してください。
+詳しい利用方法は[patamana.com](https://patamana.com)を参照してください。
 
-Arduino IDE を用いる場合は、
-[patamana/keybard_firmware](https://github.com/patamana/keyboard_firmware)
-のコードを参考にしてください。
+Arduino IDE を用いる場合は、[patamana/keybard_firmware](https://github.com/patamana/keyboard_firmware)のコードを参考にしてください。
 
 
