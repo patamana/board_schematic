@@ -26,6 +26,6 @@ D8,D9,D10ピンは未使用なので、自由に利用できます<br><br>
 
 詳しい利用方法は[patamana.com](https://patamana.com)を参照してください。
 
-Arduino IDE を用いる場合は、[patamana/keybard_firmware](https://github.com/patamana/keyboard_firmware)のコードを参考にしてください。
+Arduino IDE を用いる場合は、[patamana/keybard_firmware/simple_split_keyboard](https://github.com/patamana/keyboard_firmware/tree/main/simple_split_keyboard)のコードを参考にしてください。
 
 
